@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Ramadan Hub",
+  "description": "An advanced Islamic companion app featuring prayer times, Quran player, Dua collection, and Tasbeeh counter.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
