@@ -11,7 +11,7 @@ export const DeveloperProfile = () => {
         className="w-10 h-10 rounded-full overflow-hidden border-2 border-amber-400 shadow-lg shadow-amber-500/20 hover:scale-105 transition-transform"
       >
         <img 
-          src="https://res.cloudinary.com/dv62ty87r/image/upload/v1740003838/IMG_20250219_232333_591_x0w15o.jpg" 
+          src="https://www.gajarbotol.site/Tech_master/6725087e829496ef18b1bb00.gif" 
           alt="Developer Profile" 
           className="w-full h-full object-cover"
         />
